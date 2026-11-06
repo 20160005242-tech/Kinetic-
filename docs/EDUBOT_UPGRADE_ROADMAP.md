@@ -1,4 +1,4 @@
-# EduBot Upgrade Roadmap
+# Kinetic Upgrade Roadmap
 
 This roadmap is based on the project information provided in the conversation. It is a set of product and engineering recommendations, not a verification of the current implementation.
 
